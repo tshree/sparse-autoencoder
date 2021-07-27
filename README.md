@@ -1,3 +1,3 @@
-Sparse-autoencoder
+Sparse Autoencoder
 ==================
 
